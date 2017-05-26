@@ -1,11 +1,10 @@
 # easyui-insdep
 JQuery EasyUI Of Insdep theme
 ------
-> * 这不是官方维护的
 > * [JQuery EasyUI 官网](http://www.jeasyui.com/index.php)
 > * [JQuery EasyUI 中文网](http://www.jeasyui.net/)
 > * [Insdep theme 官方](https://www.insdep.com/)
-> * 该项目是提供 Insdep theme 与 JQuery EasyUI整合后的 以webjars 形式提供依赖
+> * 提供 Insdep theme 与 JQuery EasyUI整合后的 以webjars 形式提供依赖
 
 # 使用
 ## maven
