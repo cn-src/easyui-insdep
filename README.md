@@ -1,10 +1,10 @@
 JQuery EasyUI Of Insdep theme
 
-======
+=============================
 
 [![Release](https://jitpack.io/v/cn.javaer/easyui-insdep.svg)](https://jitpack.io/#cn.javaer/easyui-insdep)
 
-------
+-----------------------------
 
 > * [JQuery EasyUI 官网](http://www.jeasyui.com/index.php)
 > * [JQuery EasyUI 中文网](http://www.jeasyui.net/)
