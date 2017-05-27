@@ -1,14 +1,18 @@
-# easyui-insdep
 JQuery EasyUI Of Insdep theme
+
+======
+
+[![Release](https://jitpack.io/v/cn.javaer/easyui-insdep.svg)](https://jitpack.io/#cn.javaer/easyui-insdep)
+
 ------
+
 > * [JQuery EasyUI 官网](http://www.jeasyui.com/index.php)
 > * [JQuery EasyUI 中文网](http://www.jeasyui.net/)
 > * [Insdep theme 官方](https://www.insdep.com/)
-> * 提供 Insdep theme 与 JQuery EasyUI整合后的 以webjars 形式提供依赖
+> * 提供 JQuery EasyUI 与 Insdep theme 整合后的 webjars 形式的依赖
 
-# 使用
-## maven
-1. 添加仓库地址
+# Use
+Step 1. Add the JitPack repository to your build file
 ```xml
 <repositories>
     <repository>
@@ -18,7 +22,7 @@ JQuery EasyUI Of Insdep theme
 </repositories>
 ```
 
-2. 添加依赖
+Step 2. Add the dependency
 ```xml
 <dependency>
     <groupId>cn.javaer</groupId>
