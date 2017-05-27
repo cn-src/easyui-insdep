@@ -10,6 +10,10 @@ JQuery EasyUI Of Insdep theme
 * 提供 JQuery EasyUI 与 Insdep theme 整合后的 webjars 形式的依赖
 
 -----------------------------
+# 免责声明
+> * 此处仅仅提供 JQuery EasyUI 和 Insdep theme 资源的整合，相关使用条款请访问各自官方网站
+> * JQuery EasyUI 资源是官方GPL版本
+> * Insdep theme 资源是官方免费版
 
 # Use
 Step 1. Add the JitPack repository to your build file
